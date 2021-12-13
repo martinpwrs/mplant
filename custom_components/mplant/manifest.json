@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@martinpwrs"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/martinpwrs/mplant",
+  "domain": "mplant",
+  "iot_class": "assumed_state",
+  "name": "MPlant",
+  "requirements": [],
+  "version": "0.0.1"
+}
